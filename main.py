@@ -36,9 +36,9 @@ print("List of Opponents Pokemons with Type and Level",opp_data)
 
 for data3 in self_data:
     for data4 in opp_data:
-        if(data3[0] )
-        print(data3[0])
-        print(data3[-1])
+        if(data3[0]):
+            print(data3[0])
+            print(data3[-1])
 # for i in self_pokemons:
 #     print(i)
 #     print(i.split(';'))
